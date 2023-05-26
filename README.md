@@ -1,6 +1,6 @@
 # pmtool
 
-Small python command line tool to query and/or parse PubMed from/to stdin or file. Output options are markdown (`md`) or (JSON `json`)
+Small python command line tool to query and/or parse PubMed from/to stdin or file. Output options are markdown (`md`) or JSON (`json`).
 
 ## Use
 
